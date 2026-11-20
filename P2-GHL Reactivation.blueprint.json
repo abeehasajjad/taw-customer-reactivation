@@ -1001,7 +1001,7 @@
                                 "scoped": "true",
                                 "connection": "google-email"
                             },
-                            "label": "Abeeha's Gmail connectionabeehasajjad001@gmail.com"
+                            "label": "Gmail connection"
                         }
                     }
                 },
@@ -1154,7 +1154,7 @@
                 },
                 "sheetId": "Contacts",
                 "rowNumber": "{{1.`__ROW_NUMBER__`}}",
-                "spreadsheetId": "/1ts05dV72tSOHlLVTcoHd2tAxHWBKQGkwGa_v8aa2GX0",
+                "spreadsheetId": "",
                 "includesHeaders": true,
                 "useColumnHeaders": false,
                 "valueInputOption": "USER_ENTERED"
