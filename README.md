@@ -123,8 +123,7 @@ The test dataset included both gym and salon customers.
 ## Demo and Project Files
 
 - **Loom Demo:** To be added.
-- **Make.com Workflow Export (JSON):** To be added.
-- **Workflow Execution Recording:** To be added.
-- **Screenshots:** To be added in the `screenshots/` folder.
+- **Make.com Workflow Export (JSON):** added.
+- **Screenshots:** added.
 
 
